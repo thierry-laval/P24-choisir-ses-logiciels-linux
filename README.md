@@ -1253,6 +1253,19 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 
 **[⬆ Retour en haut](#table-of-contents)** <br>
 
+***
+
+### Utilisé dans ce projet
+
+| Languages       | et Applications        |
+| :-------------: |:--------------:        |
+| Firefox développeur | Visual Studio Code |
+| Git/GitHub          |                    |
+
+***N'hésitez pas à contribuer, en ouvrant une issue.***
+
+***
+
 ## Guide pour contribuer
 
 > Mettez simplement le nom de l'**application** dans la liste.
@@ -1269,32 +1282,37 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 * [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) * Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
 * [Guide Alternatif pour Markdown:](https://guides.github.com/features/mastering-markdown/)
 
-*Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logiciels open-source et un lien vers le code source.*
+_Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logiciels open-source et un lien vers le code source._
 
 _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une biére qui n'est pas gratuite)._
 
-## License
+#### Merci à tous
 
-[![License Creative Commons](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+***
 
-Ce travail est sous licence [Licence internationale Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
+## 📝  License
+
+Copyright © 2021 [Thierry Laval](https://thierrylaval.dev).
+
+Ce projet est sous licence [MIT](LICENCE).
+
+[Voir mon travail]: <https://github.com/thierry-laval>
+
+[Template]: <InsertUrl>
+
+[Git project]: https://github.com/thierry-laval/P24-choisir-ses-logiciels-linux
 
 [OSS Icon]: img/oss.svg
 [Money Icon]: img/money.png
 
 ***
 
-### Utilisé dans ce projet
-
-| Languages       | et Applications        |
-| :-------------: |:--------------:        |
-| Firefox développeur | Visual Studio Code |
-| Git/GitHub          |                    |
-
-***N'hésitez pas à contribuer, en ouvrant une issue.***
-
-#### Merci à tous
-
-***
-
 &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp; si ce projet vous a plu !
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
+
+<a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
