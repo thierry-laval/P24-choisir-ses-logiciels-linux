@@ -1327,12 +1327,12 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 
 ## Guide pour contribuer
 
-> Mettez simplement le nom de l'**application** dans la liste.
-> Mettre un lien avec sa **homepage** ou un **guide** sur son installation.
-> Aussi ecrivez une **petite description** de l'application + ajouter une **icône**.
-> Faite bien attention de l'avoir placé dans **le topic approprié**.
-> Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
-> Faite en sorte que tout est bien **classé par ordre alphabétique**.
+* Mettez simplement le nom de l'**application** dans la liste.
+* Mettre un lien avec sa **homepage** ou un **guide** sur son installation.
+* Aussi ecrivez une **petite description** de l'application + ajouter une **icône**.
+* Faite bien attention de l'avoir placé dans **le topic approprié**.
+* Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
+* Faite en sorte que tout est bien **classé par ordre alphabétique**.
 
 ## Comment contribuer ?
 
@@ -1345,7 +1345,7 @@ _Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logicie
 
 _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une biére qui n'est pas gratuite)._
 
-#### Merci à tous
+### Merci à tous
 
 ***
 
