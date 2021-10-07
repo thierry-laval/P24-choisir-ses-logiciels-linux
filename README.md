@@ -25,7 +25,7 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 
 ## Table des Matiéres
 
-- [!left 100%](#)
+* [!left 100%](#)
   - [Auteur](#auteur)
     - [📎 Projet 24 - Aide pour choisir ses Logiciels Linux](#-projet-24---aide-pour-choisir-ses-logiciels-linux)
   - [Table des Matiéres](#table-des-matiéres)
