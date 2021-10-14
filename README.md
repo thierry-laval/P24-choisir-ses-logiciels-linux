@@ -17,18 +17,10 @@ _`Début du projet le 04/10/2021`_
 
 🐧 &nbsp;&nbsp;Ce repos est une collection d'outils et d'applications Linux pour **utilisateurs et développeurs**.
 
-***
+<p>
+<details>
+      <summary>🔖&nbsp;&nbsp;<b>Cliquez pour ouvrir la table des matières</b></summary>
 
-N'hésitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
-
-_Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
-
-## Table des Matiéres
-
-* [!left 100%](#)
-  - [Auteur](#auteur)
-    - [📎 Projet 24 - Aide pour choisir ses Logiciels Linux](#-projet-24---aide-pour-choisir-ses-logiciels-linux)
-  - [Table des Matiéres](#table-des-matiéres)
   - [Applications](#applications)
     - [Audio](#audio)
     - [Chat avec les Clients](#chat-avec-les-clients)
@@ -136,16 +128,30 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
     - [Linux Infos, Apps, et plus](#linux-infos-apps-et-plus)
     - [Reddit](#reddit)
   - [Apprendre Linux](#apprendre-linux)
-  - [Linux Hacking/Dévelopement](#linux-hackingdévelopement)
-  - [Linux Avancé](#linux-avancé)
-  - [Other Awesome Lists](#other-awesome-lists)
-    - [Utilisé dans ce projet](#utilisé-dans-ce-projet)
+    - [Linux Hacking/Dévelopement](#linux-hackingdévelopement)
+    - [Linux Avancé](#linux-avancé)
+  - [Autres listes sympa](#autres-listes-sympa)
+  - [Utilisé dans ce projet](#utilisé-dans-ce-projet)
   - [Guide pour contribuer](#guide-pour-contribuer)
   - [Comment contribuer ?](#comment-contribuer-)
       - [Merci à tous](#merci-à-tous)
   - [📝  License](#--license)
+      </details>
+      </p>
 
 ***
+
+N'hésitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
+
+_Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
+
+#### Que signifient les icônes ?
+
+_Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logiciels open-source et un lien vers le code source._
+
+_Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une biére qui n'est pas gratuite)._
+
+**
 
 ## Applications
 
@@ -1302,15 +1308,17 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 * [Virtualisation de Containeurs](https://github.com/Citrix-TechSpecialist/Docker-101)
 * [Virtualisation avec Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
-## Other Awesome Lists
+## Autres listes sympa
 
 *Voici des listes recommandés:*
 
-* [Awesome Audio Linux](https://github.com/nodiscc/awesome-linuxaudio)
-* [Awesome Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
-* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+* [Audio Linux](https://github.com/nodiscc/awesome-linuxaudio)
+* [Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
+* [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
-**[⬆ Retour en haut](#table-of-contents)** <br>
+**[⬆ Retour en haut](#table-des-matières)** <br>
+
+##
 
 ***
 
@@ -1321,11 +1329,11 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 | Firefox développeur | Visual Studio Code |
 | Git/GitHub          |                    |
 
-***N'hésitez pas à contribuer, en ouvrant une issue.***
-
 ***
 
-## Guide pour contribuer
+### Guide pour contribuer
+
+***N'hésitez pas à contribuer, en ouvrant une issue.***
 
 * Mettez simplement le nom de l'**application** dans la liste.
 * Mettre un lien avec sa **homepage** ou un **guide** sur son installation.
@@ -1334,22 +1342,18 @@ _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le mon
 * Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
 * Faite en sorte que tout est bien **classé par ordre alphabétique**.
 
-## Comment contribuer ?
+#### Vous voulez en apprendre plus ?
 
 * [Comment utiliser Github](https://guides.github.com/activities/forking/)
 * [Comment utiliser Git en Ligne de Commande](https://rogerdudler.github.io/git-guide/)
 * [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) * Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
 * [Guide Alternatif pour Markdown:](https://guides.github.com/features/mastering-markdown/)
 
-_Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logiciels open-source et un lien vers le code source._
-
-_Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une biére qui n'est pas gratuite)._
-
 ### Merci à tous
 
 ***
 
-## 📝  License
+### 📝  License
 
 Copyright © 2021 [Thierry Laval](https://thierrylaval.dev).
 
@@ -1366,7 +1370,7 @@ Ce projet est sous licence [MIT](LICENCE).
 
 ***
 
-&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
 
 Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
