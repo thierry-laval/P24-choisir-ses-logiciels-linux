@@ -133,7 +133,7 @@ _`Début du projet le 04/10/2021`_
   - [Autres listes sympa](#autres-listes-sympa)
   - [Utilisé dans ce projet](#utilisé-dans-ce-projet)
   - [Guide pour contribuer](#guide-pour-contribuer)
-  - [Comment contribuer ?](#comment-contribuer-)
+  - [Apprendre à contribuer](#apprendre-a-contribuer)
       - [Merci à tous](#merci-à-tous)
   - [📝  License](#--license)
       </details>
@@ -1343,7 +1343,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
 * Faite en sorte que tout est bien **classé par ordre alphabétique**.
 
-#### Vous voulez en apprendre plus ?
+#### Apprendre à contribuer ?
 
 * [Comment utiliser Github](https://guides.github.com/activities/forking/)
 * [Comment utiliser Git en Ligne de Commande](https://rogerdudler.github.io/git-guide/)
