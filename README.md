@@ -19,7 +19,7 @@ _`Début du projet le 04/10/2021`_
 
 <p>
 <details>
-      <summary>🔖&nbsp;&nbsp;<b>Cliquez pour ouvrir la table des matières</b></summary>
+      <summary>🟢&nbsp;&nbsp;🔖&nbsp;&nbsp;<b>Cliquez pour ouvrir la table des matières</b></summary>
 
 <table align='center' border='1' cellpadding='10'>
 <tr>
