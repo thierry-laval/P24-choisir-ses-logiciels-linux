@@ -85,6 +85,7 @@ _`Début du projet le 04/10/2021`_
 
 <td width='500px'>
 
+  - Suite des applications
     - [Bureau](#bureau)
       - [Comptabilité](#comptabilité)
       - [Office Suites](#office-suites)
