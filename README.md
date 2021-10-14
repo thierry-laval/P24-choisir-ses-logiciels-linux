@@ -1370,9 +1370,9 @@ Copyright © 2021 [Thierry Laval](https://thierrylaval.dev).
 
 Ce projet est sous licence [MIT](LICENCE).
 
-[Voir mon travail]: <https://github.com/thierry-laval>
+[Voir mon travail](https://github.com/thierry-laval)
 
-[Template]: <InsertUrl>
+[Créer un bon template](https://github.com/thierry-laval/P22-template-pour-un-readme)
 
 [Git project]: https://github.com/thierry-laval/P24-choisir-ses-logiciels-linux
 
@@ -1390,3 +1390,5 @@ Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 <!--[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
 
 <a href="url"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)** <br>
