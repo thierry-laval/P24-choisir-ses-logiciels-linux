@@ -21,6 +21,10 @@ _`Début du projet le 04/10/2021`_
 <details>
       <summary>🔖&nbsp;&nbsp;<b>Cliquez pour ouvrir la table des matières</b></summary>
 
+<table align='center' border='1' cellpadding='10'>
+<tr>
+<td width='500px'>
+
   - [Applications](#applications)
     - [Audio](#audio)
     - [Chat avec les Clients](#chat-avec-les-clients)
@@ -77,28 +81,32 @@ _`Début du projet le 04/10/2021`_
       - [Navigateur](#navigateur)
       - [Outil de soutien](#outil-de-soutien)
       - [Web Service Client](#web-service-client)
-    - [Bureau](#bureau)
-      - [Comptabilité](#comptabilité)
-      - [Office Suites](#office-suites)
-      - [LaTeX](#latex)
-      - [Markdown](#markdown)
-      - [Écriture de romans](#écriture-de-romans)
-    - [Productivité](#productivité)
-      - [Automatisation](#automatisation)
-      - [Dock](#dock)
-      - [Recherche locale](#recherche-locale)
-      - [Divers 03](#divers-03)
-      - [Prise de notes](#prise-de-notes)
-      - [Temps et tâches](#temps-et-tâches)
-      - [Widget et indicateur](#widget-et-indicateur)
-    - [Proxy](#proxy)
-    - [Sécurité](#sécurité)
-    - [Partage de fichiers](#partage-de-fichiers)
-    - [Terminal](#terminal)
-    - [Utilitaires](#utilitaires)
-    - [Video](#video)
-    - [Logiciels wiki](#logiciels-wiki)
-    - [Autres](#autres)
+</td>
+
+<td width='500px'>
+
+  - [Bureau](#bureau)
+    - [Comptabilité](#comptabilité)
+    - [Office Suites](#office-suites)
+    - [LaTeX](#latex)
+    - [Markdown](#markdown)
+    - [Écriture de romans](#écriture-de-romans)
+  - [Productivité](#productivité)
+    - [Automatisation](#automatisation)
+    - [Dock](#dock)
+    - [Recherche locale](#recherche-locale)
+    - [Divers 03](#divers-03)
+    - [Prise de notes](#prise-de-notes)
+    - [Temps et tâches](#temps-et-tâches)
+    - [Widget et indicateur](#widget-et-indicateur)
+  - [Proxy](#proxy)
+  - [Sécurité](#sécurité)
+  - [Partage de fichiers](#partage-de-fichiers)
+  - [Terminal](#terminal)
+  - [Utilitaires](#utilitaires)
+  - [Video](#video)
+  - [Logiciels wiki](#logiciels-wiki)
+  - [Autres](#autres)
   - [Utilitaires en ligne de commande](#utilitaires-en-ligne-de-commande)
   - [Environnements de bureau](#environnements-de-bureau)
   - [Gestionnaire d'affichage](#gestionnaire-daffichage)
@@ -133,9 +141,10 @@ _`Début du projet le 04/10/2021`_
   - [Autres listes sympa](#autres-listes-sympa)
   - [Utilisé dans ce projet](#utilisé-dans-ce-projet)
   - [Guide pour contribuer](#guide-pour-contribuer)
-  - [Apprendre à contribuer](#apprendre-a-contribuer)
-      - [Merci à tous](#merci-à-tous)
   - [📝  License](#--license)
+</td>
+</tr>
+</table>
       </details>
       </p>
 
@@ -151,7 +160,7 @@ _Les éléments marqués avec ![Open-Source Software][OSS Icon] sont des logicie
 
 _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une biére qui n'est pas gratuite)._
 
-**
+***
 
 ## Applications
 
@@ -1325,10 +1334,10 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 
 ### Utilisé dans ce projet
 
-| Languages       | et Applications        |
-| :-------------: |:--------------:        |
+|      Languages      |  et Applications   |
+| :-----------------: | :----------------: |
 | Firefox développeur | Visual Studio Code |
-| Git/GitHub          |                    |
+|     Git/GitHub      |                    |
 
 ***
 
