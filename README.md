@@ -1316,7 +1316,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
 * [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
-**[⬆ Retour en haut](#table-des-matières)** <br>
+**[⬆ Retour en haut](#applications)** <br>
 
 ##
 
