@@ -320,7 +320,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 
 * [Code::Blocks](http://www.codeblocks.org/) * Code::Blocks est un IDE gratuit pour C, C++ et Fortran, conçu pour répondre aux besoins les plus exigeants de ses utilisateurs. Il est conçu pour être très extensible et entièrement configurable.
 * [Codelite](http://codelite.org/) * Un IDE gratuit, open source, multiplateforme pour C, C++, PHP et Node.js.
-* ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) * Un IDE multiplateforme et puissant pour C et C++ ! ! [Non gratuit] [Icône monétaire]
+* ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) * Un IDE multiplateforme et puissant pour C et C++ ! ! 
 * [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) * Environnement de développement intégré multiplateforme et complet pour la création facile d'appareils connectés, d'interfaces utilisateur et d'applications.
 
 #### Base de données
@@ -1164,7 +1164,8 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Notions de base pour Linux](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 * [Choisir une distribution qui vous convient le mieux](http://i.imgur.com/TV21DgN.jpg)
 * [38 choses à faire après l'installation d'Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-* [Que font ces commandes dans la ligne de commande?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
+* [Que font ces commandes dans la ligne de commande?](https://www.explainshell.com)
+* [Explications des lignes de commande](https://github.com/idank/explainshell)
 
 ### Arch Linux
 
