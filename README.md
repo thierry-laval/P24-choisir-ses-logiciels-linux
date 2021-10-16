@@ -2,10 +2,11 @@
 
 ## Auteur
 
-👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
 * Github: [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
 
 ***
 
@@ -14,6 +15,8 @@
 ![left 100%](img/linux.png?raw=true)
 
 _`Début du projet le 04/10/2021`_
+
+***
 
 🐧 &nbsp;&nbsp;Ce repos est une collection d'outils et d'applications Linux pour **utilisateurs et développeurs**.
 
@@ -151,7 +154,7 @@ _`Début du projet le 04/10/2021`_
 
 ***
 
-N'hésitez pas à **contribuer** / **star** / **fork** / **pull request** . N'importe quelles **recommandations** et **suggestions** sont les bienvenus.
+ 📈 &nbsp; N'hésitez pas à **contribuer** / **star** / **fork** / **pull request**. N'importe quelles **recommandations** et **suggestions** sont les bienvenues.
 
 _Tout ce qui est écrit ci dessous viens de mes recherches et tests. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté._
 
@@ -163,9 +166,15 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 
 ***
 
-## Applications
+## 📚 &nbsp; Voir la collection
 
-### Audio
+<p>
+<details>
+      <summary>🟢&nbsp;&nbsp;🔖&nbsp;&nbsp;<b>Cliquez pour ouvrir les liens</b></summary>
+
+### Applications
+
+#### Audio
 
 *Pour une liste plus complète/avancée/mieux classée/... des logiciels audio pour Linux, vous pouvez cliquer [ici](https://github.com/nodiscc/awesome-linuxaudio)*
 
@@ -223,9 +232,9 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/needle-and-thread/vocal) [Vocal](http://vocalproject.net/) * Client de podcast pour le bureau moderne.
 * [![Open-Source Software][OSS Icon]](https://github.com/yktoo/indicator-sound-switcher) [Yktoo Sound Switcher Indicator](https://yktoo.com/en/software/indicator-sound-switcher) * Indicateur de sélection d'entrée/sortie de son pour Ubuntu/Unity.
 
-### Chat avec les Clients
+#### Chat avec les Clients
 
-#### Client tiers
+##### Client tiers
 
 * [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) [Caprine](https://sindresorhus.com/caprine) * Application de bureau élégante de Facebook Messenger.
 * [![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) [Chatty](http://chatty.github.io/) * Chatty est un client de chat Twitch pour tous ceux qui veulent essayer quelque chose de nouveau et différent du webchat, mais qui ne veulent pas la complexité d'un client IRC ou manquer les fonctionnalités spécifiques de Twitch.
@@ -234,23 +243,23 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) [ScudCloud](https://github.com/raelgc/scudcloud/) * Un client Slack pour Linux.
 * [![Open-Source Software][OSS Icon]](https://github.com/yakyak/yakyak) [YakYak](https://github.com/yakyak/yakyak) * Un client de chat de bureau pour Google Hangouts.
 
-#### Chat tout-en-un
+##### Chat tout-en-un
 
 * [![Open-Source-Software][OSS Icon]](https://github.com/meetfranz/franz) [Franz](http://meetfranz.com/) * Franz est une application de messagerie gratuite qui combine plusieurs services de chat et de messagerie en une seule application.
 * [![Open-Source Software][OSS Icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) * Un client de chat universel.
 * [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) [Rambox](http://rambox.pro/) * Une application de messagerie et d'emailing gratuite, Open Source et multiplateforme qui combine des applications web communes en une seule.
 
-#### Utilitaire de chat
+##### Utilitaire de chat
 
 * [![Open-Source Software][OSS Icon]](https://github.com/Cog-Creators/Red-DiscordBot) [Red Discord Bot](https://cogs.red) * Red Discord Bot est un robot de musique/chat/trivia auto-hébergé qui peut fonctionner sur un Raspberry Pi et une variété d'OS. Il est extensible grâce à un système de "Cogs" qui lui permet d'en faire plus.
 
-#### Chat IRC
+##### Chat IRC
 
 * [![Open-Source Software][OSS Icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) * HexChat est un client IRC basé sur XChat, mais contrairement à XChat, il est entièrement gratuit pour les systèmes Windows et Unix-like.
 * [![Open-Source Software][OSS Icon]](https://github.com/irssi/irssi) [Irssi](https://github.com/irssi/irssi) * Irssi est un client de chat modulaire qui est surtout connu pour son interface utilisateur en mode texte.
 * [![Open-Source Software][OSS Icon]](https://github.com/kvirc/KVIrc) [KVIrc](http://www.kvirc.net/) * KVIrc est un client IRC portable gratuit basé sur l'excellente boîte à outils Qt GUI.
 
-#### Chat Officiel
+##### Chat Officiel
 
 * [![Open-Source-Software][OSS Icon]](https://sourceforge.net/p/beebeep/code/HEAD/tree) [BeeBEEP](http://beebeep.sourceforge.net) * BeeBEEP est un messager lan à source ouverte, de pair à pair. Vous pouvez parler et partager des fichiers avec n'importe qui dans votre réseau local. Vous n'avez pas besoin d'un serveur, il suffit de le télécharger, de le décompresser et de le lancer. Simple, rapide et sécurisé.
 * [![Open-Source Software][OSS Icon]](https://github.com/dino/dino) [Dino](https://dino.im) * Client de chat Jabber/XMPP propre et moderne.
@@ -267,7 +276,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/weechat) [Weechat](https://weechat.org/) * WeeChat est un client de chat rapide, léger et extensible.
 * [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) * Communication sécurisée. Confidentialité totale.
 
-### Sauvegarde et récupération des données
+#### Sauvegarde et récupération des données
 
 * [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) * Un outil sympa pour sauvegarder des données.
 * [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) * Système de sauvegarde très efficace basé sur le format git packfile, fournissant des sauvegardes incrémentales rapides et une déduplication globale (parmi et dans les fichiers, y compris les images de machines virtuelles).
@@ -282,9 +291,9 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) * TestDisk est un puissant logiciel gratuit de récupération de données ! Il a été principalement conçu pour aider à récupérer les partitions perdues et/ou rendre les disques non amorçables à nouveau lorsque ces symptômes sont causés par un logiciel défectueux.
 * [![Open-Source Software][OSS Icon]](https://code.launchpad.net/timeshift) [Timeshift](https://launchpad.net/timeshift) * TimeShift est un utilitaire de restauration du système qui prend des instantanés incrémentiels du système en utilisant rsync et des liens durs. Ces instantanés peuvent être restaurés à une date ultérieure pour annuler toutes les modifications apportées au système après la prise de l'instantané. Les instantanés peuvent être pris manuellement ou à intervalles réguliers à l'aide de tâches planifiées.
 
-### Personnalisation du bureau
+#### Personnalisation du bureau
 
-#### Thèmes de bureau
+##### Thèmes de bureau
 
 * [![Open-Source Software][OSS Icon]](https://github.com/adapta-project/adapta-gtk-theme) [Adapta Theme](https://github.com/tista500/Adapta) * Un thème Gtk+ adaptatif basé sur les directives de Material Design.
 * [![Open-Source Software][OSS Icon]](https://github.com/EliverLara/Ant) [Ant Theme](http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite) * Ant est un thème GTK plat pour Ubuntu et d'autres bureaux Linux basés sur GNOME ; il existe en trois versions : vanille, Bloody ou Dracula.
@@ -296,7 +305,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) * Un thème GTK plat et coloré.
 * [![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) [Yosembiance theme](https://github.com/bsundman/Yosembiance) * Un thème Ambiance modifié (librement) inspiré par OSX Yosemite.
 
-#### Widgets de bureau et thèmes utilitaires
+##### Widgets de bureau et thèmes utilitaires
 
 * [![Logiciel libre][Icône OSS]](https://launchpad.net/compizconfig-settings-manager) [Gestionnaire de paramètres Compiz Config](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) * Le projet OpenCompositing apporte des effets visuels de bureau en 3D qui améliorent la convivialité du système X Window et augmentent la productivité.
 * [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky) [Conky](https://github.com/brndnmtthws/conky) * Conky est un moniteur système gratuit et léger pour X, qui affiche tout type d'information sur votre bureau.
@@ -311,7 +320,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/ianyh/Amethyst) [Unity Tweak Tool](https://apps.ubuntu.com/cat/applications/unity-tweak-tool/) * Une application indispensable pour la personnalisation de Ubuntu Unity.
 * [![Logiciel libre][Icône OSS]](https://github.com/deviantfero/wpgtk) [Wpgtk](http://deviantfero.github.io/wpgtk) * Un logiciel de thématisation universel pour tous les thèmes définis dans des fichiers texte, compatible avec tous les terminaux, avec des thèmes par défaut pour GTK2, GTK+, openbox et Tint2 qui utilise pywal comme noyau pour la génération de thèmes de couleurs.
 
-#### Packs d'icônes de bureau
+##### Packs d'icônes de bureau
 
 * [![Open-Source Software][OSS Icon]](https://github.com/horst3180/arc-icon-theme) [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) * Un thème d'icônes plat et moderne qui s'appuie sur le thème d'icônes Moka et nécessite ce dernier pour fonctionner.
 * [![Open-Source Software][OSS Icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) * Un thème d'icônes inspiré de macOS et de Material design, conçu pour s'adapter à la plupart des environnements de bureau.
@@ -319,21 +328,21 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) * Un thème d'icônes plat qui existe en deux versions, Numix Main et Numix Circle.
 * [![Open-Source Software][OSS Icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk/) * Thème d'icône SVG pour les systèmes Linux, basé sur Paper avec quelques extras comme (support hardcode-tray, support kde-color-scheme, thème d'icône libreoffice, thème filezilla, thèmes smplayer ...) et d'autres modifications. Le thème est disponible pour GTK et KDE.
 
-### Développement
+#### Développement
 
-#### Android
+##### Android
 
 * [![Open-Source Software][OSS Icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) * Exécuter des applications Android sur n'importe quel système d'exploitation GNU/Linux.
 * [Android studio](https://developer.android.com/studio/index.html) * L'IDE officiel d'Android : Android Studio fournit les outils les plus rapides pour créer des applications sur chaque type de périphérique Android.
 
-#### C\+\+
+##### C\+\+
 
 * [Code::Blocks](http://www.codeblocks.org/) * Code::Blocks est un IDE gratuit pour C, C++ et Fortran, conçu pour répondre aux besoins les plus exigeants de ses utilisateurs. Il est conçu pour être très extensible et entièrement configurable.
 * [Codelite](http://codelite.org/) * Un IDE gratuit, open source, multiplateforme pour C, C++, PHP et Node.js.
 * ![Non Free][Money Icon] [Clion](https://www.jetbrains.com/clion/) * Un IDE multiplateforme et puissant pour C et C++ ! ! 
 * [![Open-Source Software][OSS Icon]](https://github.com/qt-creator/qt-creator) [QT Creator](https://www.qt.io/ide/) * Environnement de développement intégré multiplateforme et complet pour la création facile d'appareils connectés, d'interfaces utilisateur et d'applications.
 
-#### Base de données
+##### Base de données
 
 * [![Logiciel libre][Icône OSS]](https://github.com/apache/cassandra) [Cassandra](http://cassandra.apache.org/) * La base de données Apache Cassandra est le bon choix lorsque vous avez besoin d'évolutivité et de haute disponibilité sans compromettre les performances. L'évolutivité linéaire et la tolérance aux pannes éprouvée sur du matériel de base ou une infrastructure en nuage en font la plateforme parfaite pour les données critiques.
 * [![Logiciel libre][Icône OSS]](https://github.com/apache?query=couchdb) [CouchDB](http://couchdb.apache.org/) * Synchronisation multi-maître transparente, qui évolue du Big Data au Mobile, avec une API HTTP/JSON intuitive et conçue pour la fiabilité.
@@ -356,42 +365,42 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://www.sqlite.org/src/doc/trunk/README.md) [Sqlite](https://sqlite.org/download.html) * SQLite est une bibliothèque en cours de développement qui implémente un moteur de base de données SQL transactionnel autonome, sans serveur, sans configuration.
 * [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) [Sqlite Browser](http://sqlitebrowser.org/) * Créez, gérez et visualisez visuellement les fichiers de base de données sqlite.
 
-#### Golang
+##### Golang
 
 * [GoLand](https://www.jetbrains.com/go/) * GoLand est le nom de code d'un nouvel IDE commercial de JetBrains visant à fournir un environnement ergonomique pour le développement de Go.
 
-#### Java
+##### Java
 
 * [![Open-Source Software][OSS Icon]](https://www.bluej.org/versions.html) [BlueJ](http://bluej.org/) * Un environnement de développement Java gratuit conçu pour les débutants, utilisé par des millions de personnes dans le monde.
 * [Eclipse](https://eclipse.org/ide/) * Eclipse est célèbre pour son environnement de développement intégré (IDE) Java, mais vous pouvez également télécharger des paquets pour prendre en charge les IDE C/C++ et PHP.
 * [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA](https://www.jetbrains.com/idea/) * Puissant IDE pour JAVA. La version communautaire est à source ouverte.
 
-#### Javascript
+##### Javascript
 
 * [Webstorm](https://www.jetbrains.com/webstorm/) * Puissant IDE pour le développement moderne de JavaScript, créé par JetBrains.
 
-#### Micro-ordinateur et dispositifs embarqués
+##### Micro-ordinateur et dispositifs embarqués
 
 * [![Logiciel libre][Icône OSS]](https://github.com/arduino/Arduino) [Arduino IDE](https://www.arduino.cc/en/Main/Software) * Le logiciel libre Arduino (IDE) permet d'écrire facilement du code et de le télécharger sur la carte.
 * [![Logiciel libre][Icône OSS]](https://github.com/fritzing/fritzing-app) [Fritzing](http://fritzing.org/) * Fritzing est une initiative de matériel libre qui rend l'électronique accessible à tous en tant que matériel créatif.
 * [![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) [Sloeber IDE](http://eclipse.baeyens.it/) * Sloeber IDE. L'IDE Arduino pour Eclipse.
 
-#### Support de plusieurs langues
+##### Support de plusieurs langues
 
 * [![Open-Source Software][OSS Icon]](https://github.com/aptana) [Aptana](http://www.aptana.com/) * Aptana Studio exploite la flexibilité d'Eclipse et la concentre dans un puissant moteur de développement web.
 * [![Logiciel libre][Icône OSS]](https://phabricator.kde.org/dashboard/view/8/) [KDevelop](https://www.kdevelop.org/) * Il s'agit d'un IDE gratuit, à source ouverte, riche en fonctionnalités, extensible par des plugins pour C/C++ et d'autres langages de programmation.
 * [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/) [MonoDevelop](http://www.monodevelop.com/) * IDE multiplateforme pour C#, F# et plus.
 * [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) [Netbeans](https://netbeans.org/downloads/) * L'EDI NetBeans vous permet de développer rapidement et facilement des applications Java de bureau, mobiles et Web, ainsi que des applications HTML5 avec HTML, JavaScript et CSS.
 
-#### PHP
+##### PHP
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) * IDE PHP puissant et intelligent de Jetbrain.
 
-#### Python
+##### Python
 
 * [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) [PyCharm](https://www.jetbrains.com/pycharm/) * Puissant IDE pour Python
 
-#### Shell
+##### Shell
 
 * [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) * Un shell de ligne de commande intelligent et convivial.
 * [![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) [Fisherman](https://github.com/fisherman/fisherman) * Un gestionnaire de plugins pour le shell fish.
@@ -400,7 +409,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Logiciel libre][Icône OSS]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) * Un cadre communautaire agréable pour gérer votre configuration zsh.
 * [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](http://www.zsh.org/) * Un puissant shell de ligne de commande.
 
-#### Outils de support
+##### Outils de support
 
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/cscope/) [Cscope](http://cscope.sourceforge.net/) * Cscope est un outil de développement pour parcourir le code source. Bien qu'il s'agisse d'une application en ligne de commande, il est intégré de manière native à l'éditeur Vim. Il permet de rechercher dans le code des symboles, des définitions, des fonctions (appelées), des expressions rationnelles, des fichiers.
 * [![Open-Source Software][OSS Icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) * Devilbox est une pile PHP moderne et hautement personnalisable supportant LAMP et MEAN et fonctionnant sur toutes les plateformes majeures. L'objectif principal est de pouvoir facilement passer et combiner toutes les versions nécessaires au développement local.
@@ -432,7 +441,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) [Wireshark](https://www.wireshark.org/) * Wireshark est le premier analyseur de protocole réseau au monde. Il vous permet de voir ce qui se passe sur votre réseau à un niveau microscopique. C'est le standard de facto (et souvent de jure) dans de nombreuses industries et institutions éducatives.
 * [![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal) [Zeal](https://zealdocs.org/) * Zeal est un navigateur de documentation hors ligne pour les développeurs de logiciels.
 
-### Utilitaires de livres électroniques
+#### Utilitaires de livres électroniques
 
 * [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) * Un lecteur de livres électroniques simple et ciblé.
 * [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) [Buka](https://github.com/oguzhaninan/Buka/releases) * Un programme pour la gestion des livres électroniques.
@@ -455,7 +464,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) * Sigil est un éditeur d'ebooks EPUB multiplateforme.
 * [![Open-Source Software][OSS Icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) * Zathura est un visualiseur de documents hautement personnalisable et fonctionnel.
 
-### Éditeurs
+#### Éditeurs
 
 * [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) [Atom](https://atom.io/) * Editeur de texte piratable pour le 21ème siècle.
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) * Bluefish est un éditeur puissant destiné aux programmeurs et aux développeurs web, avec de nombreuses options pour écrire des sites web, des scripts et du code de programmation.
@@ -477,7 +486,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) [Vim](http://www.vim.org/download.php) -Vim est un éditeur de texte avancé qui cherche à fournir la puissance de l'éditeur Unix de facto 'Vi', avec un ensemble de fonctionnalités plus complet. Il est utile que vous utilisiez déjà Vi ou que vous utilisiez un autre éditeur.
 * [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) * Visual Studio Code est un éditeur de code source léger mais puissant qui fonctionne sur votre bureau et est disponible pour Windows, OS X et Linux. Il est livré avec un support intégré pour JavaScript, TypeScript et Node.js et possède un riche écosystème d'extensions pour d'autres langages (C++, C#, Python, PHP, Golang) et runtimes.
 
-### Education
+#### Education
 
 * [![Open-Source Software][OSS Icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) * Des cartes flash puissantes et intelligentes qui facilitent la mémorisation.
 * [![Logiciel libre][Icône OSS]](http://artha.sourceforge.net/wiki/index.php/Download#Source) [Artha](http://artha.sourceforge.net/wiki/index.php/Home) * Artha est un thésaurus anglais multiplateforme gratuit qui fonctionne complètement hors ligne et est basé sur WordNet.
@@ -515,7 +524,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Logiciel libre][Icône OSS]](https://github.com/ugeneunipro/ugene) [UGENE](http://ugene.net/) * UGENE est un logiciel libre et gratuit de bioinformatique multiplateforme basé sur une interface graphique intégrée.
 * [![Open-Source Software][OSS Icon]](https://github.com/veyon/veyon) [Veyon](https://github.com/veyon/veyon/releases) * Veyon est un logiciel de gestion informatique pour les salles de classe, il permet à un enseignant de contrôler les ordinateurs des élèves et de les guider sur un réseau informatique.
 
-### Email
+#### Email
 
 * [![Logiciel libre][Icône OSS]](http://git.claws-mail.org/) [Claws](http://www.claws-mail.org/) * Claws est un client de messagerie et un lecteur de nouvelles, doté d'une interface sophistiquée, d'une configuration facile, d'un fonctionnement intuitif, d'une multitude de fonctionnalités et de plugins, de robustesse et de stabilité.
 * [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evolution/#Get_the_Source_Code) [Evolution](https://wiki.gnome.org/Apps/Evolution/) * Evolution est une application de gestion des informations personnelles qui fournit des fonctionnalités intégrées de courrier, de calendrier et de carnet d'adresses.
@@ -530,7 +539,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/danchoi/vmail) [Vmail](http://danielchoi.com/software/vmail.html) * Client Gmail semblable à Vim.
 * [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail) [Wmail](https://github.com/Thomas101/wmail) * Client de bureau non officiel de Gmail et Google Inbox pour Linux.
 
-### Gestionnaire de fichiers
+#### Gestionnaire de fichiers
 
 * [![Open-Source Software][OSS Icon]](https://github.com/pornel/7z) [7Zip](http://www.7-zip.org/download.html) * Un programme très performant qui peut décompresser presque tous les formats d'archivage de fichiers.
 * [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) * Est le gestionnaire de fichiers par défaut pour l'environnement de bureau MATE, il est très rapide et simple à utiliser.
@@ -547,15 +556,15 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) * Thunar est le gestionnaire de fichiers conçu pour être le gestionnaire de fichiers par défaut de Xfce 4.6. Il a été conçu pour être rapide et facile à utiliser.
 * [![Open-Source Software][OSS Icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) * Vifm est un gestionnaire de fichiers basé sur ncurses avec des raccourcis clavier de type VI, qui emprunte également quelques idées utiles à mutt.
 
-### Jeux
+#### Jeux
 
-#### Simulation de construction de ville
+##### Simulation de construction de ville
 
 * [![Open-Source Software][OSS Icon]](https://svn.openttd.org/trunk/) [OpenTTD](https://www.openttd.org/) * Un clone open-source de Transport Tycoon Plus avec des améliorations majeures.
 * [![Open-Source Software][OSS Icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) * Simutrans est un simulateur de transport gratuit et open-source.
 * [![Open-Source Software][OSS Icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](http://unknown-horizons.org/) * Une simulation de stratégie en temps réel en 2D qui met l'accent sur l'économie et la construction de villes. Le multijoueur n'est pas disponible actuellement.
 
-#### Jeux en ligne de commande
+##### Jeux en ligne de commande
 
 * [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [2048](https://itsfoss.com/best-command-line-games-linux/) * Jouez au célèbre 2048 en ligne de commande.
 * [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Backgammon](https://itsfoss.com/best-command-line-games-linux/) * Jouez au Backgammon en ligne de commande.
@@ -566,7 +575,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) * Joue au jeu Pacman en console.
 * [![Open-Source Software][OSS Icon]](https://itsfoss.com/best-command-line-games-linux/) [Tron](https://itsfoss.com/best-command-line-games-linux/) * Jouez au meilleur jeu d'action, Tron en ligne de commande.
 
-#### Re-créations du moteur (nécessite le jeu actuel)
+##### Re-créations du moteur (nécessite le jeu actuel)
 
 * ![Open-Source Software][OSS Icon] [NXEngine](http://nxengine.sourceforge.net/) * Un portage source de Cave Story qui fonctionne nativement sur Linux, la source doit être construite.
 * [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](http://openage.sft.mx/) * Clone open source gratuit (comme dans liberté) du moteur Age of Empires II, la source doit être construite.
@@ -574,7 +583,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/OpenRA/OpenRA) [OpenRA](http://www.openra.net/) * Jeux de stratégie classiques, reconstruits pour l'ère moderne. Source ouverte.
 * [![Open-Source Software][OSS Icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.website/) * Une recréation du moteur de Rollercoaster Tycoon 2. Nécessite les accessoires du jeu original.
 
-#### FPS
+##### FPS
 
 * [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) * Une modification de Xonotic qui inclut des armes étendues, des cartes, des véhicules, des bâtiments constructibles, des armes montées, des sorts, des monstres, des personnages, des textures et des modes de jeu (comme la guerre des couleurs (pensez à Liquidwar)).
 * [![Open-Source Software][OSS Icon]](https://github.com/freedoom/freedoom) [Freedoom](https://freedoom.github.io/) * Le projet Freedoom vise à créer un jeu complet à contenu libre basé sur le moteur Doom.
@@ -584,7 +593,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://bitbucket.org/Torr_Samaho/zandronum) [Zandronum](http://zandronum.com/) * Chef de file du Doom multijoueur en ligne.
 * [![Open-Source Software][OSS Icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) * ZDoom est un portage source pour l'ère moderne, prenant en charge le matériel et les systèmes d'exploitation actuels et offrant un large éventail d'options utilisateur.
 
-#### Applications de jeux
+##### Applications de jeux
 
 * [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) [itch](https://itch.io/) * L'application itch.io. Tous vos téléchargements sont conservés en un seul endroit et sont automatiquement mis à jour. De nombreux jeux gratuits.
 * [![Open-Source Software][OSS Icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) * Lutris est une plateforme de jeux ouverte pour Linux. Elle vous aide à installer et à gérer vos jeux dans une interface unifiée.
@@ -593,7 +602,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Steam](steampowered.com) * Magasin de jeux, qui ouvre les portes à de nombreux jeux.
 * [![Open-Source Software][Icône OSS]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) * Wine ("Wine Is Not an Emulator") est une couche de compatibilité capable d'exécuter des applications Windows sur Linux, la qualité dépend du jeu.
 
-#### Émulateurs de machines
+##### Émulateurs de machines
 
 * [![Open-Source Software][OSS Icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) * Dolphin est un émulateur GameCube / Wii, vous permettant de jouer à des jeux pour ces deux plateformes sur PC avec des améliorations.
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/) [Fuse](http://fuse-emulator.sourceforge.net/) * Fuse (the Free Unix Spectrum Emulator) est un émulateur ZX Spectrum pour Unix.
@@ -607,7 +616,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](http://vba-m.com/) * Un émulateur de Gameboy et de Gameboy Advance qui est toujours en cours de développement actif et peut même émuler un lien système entre deux gameboys.
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsnes/files/zsnes/ZSNES%20v1.51/) [ZSNES](http://www.zsnes.com/) * Un émulateur de Super Nintendo Entertainment System/Super Famicom capable et couramment utilisé, beaucoup le considèrent comme la référence en matière d'émulation SNES/Super Famicom.
 
-#### Divers 01
+##### Divers 01
 
 * Cockatrice](<https://cockatrice.github.io/>) * Cockatrice est un programme open-source multiplateforme permettant de jouer à des jeux de cartes sur table via un réseau.
 * [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](http://www.nongnu.org/galois/) * Galois est un jeu de type Falling Blocks qui n'est pas limité aux tétrominos standards auxquels la plupart des jeux du genre sont limités.
@@ -618,13 +627,13 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/alpcoskun/snake) [Snake Game](https://alpcoskun.com/snake/) * Jeu de serpent classique multiplateforme basé sur Node.js.
 * [![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) [SuperTuxKart](https://supertuxkart.net) * SuperTuxKart est un jeu de course d'arcade 3D open-source avec une variété de personnages, de pistes et de modes de jeu.
 
-#### RPG
+##### RPG
 
 * ![Open-Source Software][OSS Icon] [Tales of Maj'Eyal](https://te4.org/) * Tales of Maj'Eyal (ToME) est un jeu de rôle (roguelike) gratuit et open source, avec des combats tactiques au tour par tour et la création avancée de personnages.
 * ![Open-Source Software][OSS Icon] [Zelda Classic](http://www.zeldaclassic.com/) * Un hommage à The Legend of Zelda de Nintendo avec des quêtes, des objets et des défis supplémentaires.
 * ![Open-Source Software][OSS Icon] [Zelda : Mystery of Solarus DX](http://www.solarus-games.org) * Une suite directe de The Legend of Zelda : A Link to the Past sur la SNES, utilisant les mêmes graphismes et mécanismes de jeu.
 
-#### RTS
+##### RTS
 
 * [![Open-Source Software][OSS Icon]](http://releases.wildfiregames.com/) [0 AD](https://play0ad.com/) * Jeu RTS de guerre antique semblable à Age of Empires.
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) * Jeu de type rogue à code source ouvert avec des graphismes ASCII.
@@ -632,14 +641,14 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) * Jeu de stratégie en temps réel à code source ouvert qui se déroule après une guerre nucléaire.
 * [![Open-Source Software][OSS Icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) * Widelands est un jeu de stratégie en temps réel open-source avec des campagnes solo et un mode multijoueur inspiré de Settlers II.
 
-#### Turn Based Strategy
+##### Turn Based Strategy
 
 * [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) * Battle for Wesnoth est un jeu de stratégie au tour par tour open source sur le thème de la haute fantaisie. Il propose des combats en solo et des combats multijoueurs en ligne/à distance.
 * [![Open-Source Software][OSS Icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) * FreeCiv est un jeu de stratégie libre et open source de construction d'empire inspiré de l'histoire de la civilisation humaine.
 
-### Graphiques
+#### Graphiques
 
-#### Création graphique
+##### Création graphique
 
 * [![Open-Source Software][OSS Icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) * Editeur de sprites animés et outil de pixel art.
 * [![Logiciel libre][Icône OSS]](http://archive.blender.org/download/source-code/index.html) [Blender](https://www.blender.org/) * un pipeline de création 3D complet, gratuit et open source pour les artistes et les petites équipes.
@@ -660,7 +669,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](http://www.xaraxtreme.org/Developers/develeopers-source-code-a-building.html) [Xara Extreme](http://www.xaraxtreme.org/) * Xara Xtreme pour Linux est un programme graphique puissant et polyvalent pour les plateformes Unix, notamment Linux et FreeBSD.
 * [yEd Graph Editor](https://www.yworks.com/products/yed) * yEd est une application de bureau puissante qui peut être utilisée pour générer rapidement et efficacement des diagrammes de haute qualité. Créez des diagrammes manuellement, ou importez vos données externes pour les analyser. Nos algorithmes de mise en page automatique organisent même les grands ensembles de données en appuyant simplement sur un bouton.
 
-#### Editeur d'images
+##### Editeur d'images
 
 * [![Nonfree][Money icon][Aftershot]](http://www.aftershotpro.com/en/products/aftershot/pro/) * Une alternative puissante à Adobe Photoshop.
 * [![Logiciel libre][Icône OSS]](https://github.com/darktable-org/darktable) [Darktable](http://www.darktable.org/) * Darktable est une application libre de flux de travail photographique et un développeur RAW.
@@ -675,7 +684,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](http://pixelitor.sourceforge.net/) * Pixelitor est un logiciel d'édition d'images libre et gratuit qui prend en charge les calques, les masques de calque, les calques de texte, les filtres, l'annulation multiple, etc.
 * [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](http://rawtherapee.com/) * Une application de retouche photo bien conçue mais moins connue.
 
-#### Gestion des images
+##### Gestion des images
 
 * [![Logiciel libre][Icône OSS]](https://github.com/KDE/digikam) [Digikam](http://www.digikam.org/) * DigiKam est une application avancée de gestion de photos numériques pour Linux.
 * [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) * visionneuse d'images légère et rapide.
@@ -689,7 +698,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Logiciel libre][Icône OSS]](https://github.com/oferkv/phototonic) [Photonic](https://github.com/oferkv/phototonic) * Phototonic est un visualisateur et organisateur d'images.
 * [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Shotwell) [Shotwell](https://wiki.gnome.org/Apps/Shotwell) * Shotwell est un gestionnaire de photos pour GNOME 3.
 
-#### Divers 02
+##### Divers 02
 
 * [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake) [Handbrake](https://handbrake.fr/) * HandBrake est un outil permettant de convertir des vidéos de presque tous les formats en une sélection de codecs modernes et largement supportés.
 * [![Open-Source Software][OSS Icon]](http://potrace.sourceforge.net/#downloading) [Potrace](http://potrace.sourceforge.net/) * Potrace est un outil permettant de tracer un bitmap, c'est-à-dire de transformer un bitmap en une image lisse et évolutive.
@@ -697,11 +706,11 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme) [Ramme](https://github.com/terkelg/ramme) * Application de bureau Instagram non officielle.
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2) [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) * Rapid Photo Downloader facilite l'importation de photos depuis un appareil photo ou un smartphone.
 
-#### PSD, Inspection Sketch
+##### PSD, Inspection Sketch
 
 * ![Nonfree][Money Icon] [Avocode](https://avocode.com/) *Avocode* Partagez et inspectez les designs Photoshop et Sketch en un battement de cœur.
 
-#### Enregistreur d'écran
+##### Enregistreur d'écran
 
 * [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) [asciinema](https://asciinema.org) * Enregistreur de session de terminal.
 * [![Open-Source Software][OSS Icon]](https://github.com/foss-project/green-recorder) [Green Recorder](https://github.com/foss-project/green-recorder) * Un simple enregistreur de bureau pour les systèmes Linux, supporte l'enregistrement audio et vidéo sur presque toutes les interfaces Linux et le serveur d'affichage Wayland sur la session GNOME.
@@ -712,18 +721,18 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/MaartenBaert/ssr) [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) * SimpleScreenRecorder est un enregistreur d'écran riche en fonctionnalités qui prend en charge X11 et OpenGL. Il possède une interface utilisateur graphique basée sur Qt.
 * [![Open-Source Software][OSS Icon]](https://github.com/vkohaupt/vokoscreen) [Vokoscreen](http://www.kohaupt-online.de/hp/) * Un enregistreur de screencast gratuit, multilingue et facile à utiliser avec audio pour Linux. Il possède de nombreuses fonctionnalités.
 
-#### Capture d'écran
+##### Capture d'écran
 
 * [![Open-Source Software][OSS Icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://github.com/lupoDharkael/flameshot) * Logiciel de capture d'écran puissant mais simple à utiliser.
 * [![Open-Source Software][OSS Icon]](https://github.com/olav-st/screencloud) [Screencloud](http://screencloud.net/) * ScreenCloud est un outil de partage de captures d'écran facile à utiliser, composé d'un client multiplateforme et d'un site Web de partage : <http://screencloud.net/>.
 * [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) [ShareX](https://getsharex.com) * ShareX est un programme gratuit et open source qui vous permet de capturer ou d'enregistrer n'importe quelle zone de votre écran et de la partager en appuyant simplement sur une touche. Il permet également de télécharger des images, du texte ou d'autres types de fichiers vers plus de 80 destinations prises en charge parmi lesquelles vous pouvez choisir.
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/shutter/) [Shutter](http://shutter-project.org/) * Shutter est un programme de capture d'écran riche en fonctionnalités pour les systèmes d'exploitation basés sur Linux tels qu'Ubuntu.
 
-#### Streaming
+##### Streaming
 
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](http://minidlna.sourceforge.net/) * Anciennement connu sous le nom de **MiniDLNA**, ReadyMedia est un logiciel serveur multimédia simple et léger, dont le but est d'être entièrement compatible avec les clients DLNA/UPnP-AV. Le démon MiniDNLA sert des fichiers multimédias (musique, images et vidéo) à des clients sur un réseau tels que des smartphones, des lecteurs multimédias portables, des téléviseurs, d'autres ordinateurs et certains systèmes de jeu.
 
-#### Éditeur vidéo
+##### Éditeur vidéo
 
 * [![Open-Source Software][OSS Icon]](https://git.cinelerra-cv.org/gitweb?p=CinelerraCV.git;a=summary) [Cinelerra-cv](http://cinelerra.org/) * Environnement professionnel de montage et de composition vidéo.
 * [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade/releases/tag/1.12.2) * Un éditeur vidéo non linéaire multipiste pour Linux.
@@ -734,9 +743,9 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) * Shotcut est un éditeur vidéo gratuit, open source et multiplateforme prenant en charge des centaines de formats et de codecs audio et vidéo et doté d'une interface élégante et intuitive.
 * [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter) [Vidcutter](http://vidcutter.ozmartians.com/) * Application multiplateforme basée sur Qt5 pour le découpage/la division et la fusion/la jonction rapides et faciles de vidéos pour des montages simples et rapides.
 
-### Internet
+#### Internet
 
-#### Navigateur
+##### Navigateur
 
 * [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop) [Brave](https://brave.com/) * Brave est un bon et rapide navigateur de bureau pour macOS, Windows et Linux.
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) * Un navigateur Web populaire avec de nombreux plugins/applications.
@@ -750,7 +759,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Vivaldi](https://vivaldi.com/?lang=en) * Un nouveau navigateur en plein essor avec de nombreuses personnalisations.
 * [Yandex](https://browser.yandex.com/desktop/main/) * Navigateur rapide et pratique.
 
-#### Outil de soutien
+##### Outil de soutien
 
 * [Clipgrab](https://clipgrab.org/) * Un téléchargeur convivial pour YouTube et d'autres sites.
 * [![Open-Source Software][OSS Icon]](https://gitweb.torproject.org/tor.git) [Tor](https://www.torproject.org/) * Tor est un logiciel libre et un réseau ouvert qui vous aide à vous défendre contre l'analyse du trafic, une forme de surveillance du réseau qui menace la liberté personnelle et la vie privée.
@@ -758,7 +767,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/MrS0m30n3/youtube-dl-gui) [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/#downloads) * Youtube-dlg est une interface graphique pour youtube-dl et permet un simple copier-coller depuis tous les sites web compatibles avec youtube-dl. Il peut mettre à jour automatiquement youtube-dl ainsi que traiter une liste d'URL en parallèle.
 * [![Open-Source Software][OSS Icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://my.zerotier.com) * Zerotier est un programme qui crée un réseau virtuel pour vos seuls appareils avec un chiffrement de bout en bout sur Internet. Par défaut, Zerotier gère votre réseau virtuel mais vous pouvez passer à un réseau autogéré si vous le préférez.
 
-#### Web Service Client
+##### Web Service Client
 
 * [![Open-Source Software][OSS Icon]](https://cgit.kde.org/akregator.git/) [Akregator](https://userbase.kde.org/Akregator) * Un lecteur de flux KDE.
 * [![Logiciel libre][Icône OSS]](http://choqok.gnufolks.org/) [Choqok](http://choqok.gnufolks.org/) * Choqok est un client Qt5 pour Twitter, GNU Social, Friendica et Pump.IO.
@@ -769,23 +778,23 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Logiciel libre][Icône OSS]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) * Un lecteur de musique youtube à code source ouvert pour Ubuntu.
 * [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) * Regarder des films torrent instantanément.
 
-### Bureau
+#### Bureau
 
-#### Comptabilité
+##### Comptabilité
 
 * [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) * GnuCash est un logiciel libre de comptabilité qui met en œuvre un système de comptabilité en partie double. Il était initialement destiné à développer des capacités similaires à l'application Quicken d'Intuit, Inc. mais possède également des fonctionnalités pour la comptabilité des petites entreprises.
 * [![Open-Source Software][OSS Icon]](https://code.launchpad.net/homebank) [HomeBank](http://homebank.free.fr/en/index.php) * HomeBank est un logiciel gratuit qui vous aidera à gérer votre comptabilité personnelle.
 * [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney) [KMyMoney](https://kmymoney.org/) * KMyMoney est le gestionnaire de finances personnelles de KDE. Son fonctionnement est similaire à Microsoft Money et Quicken.
 * [![Open-Source Software][OSS Icon]](https://cgit.kde.org/skrooge.git) [Skrooge](https://skrooge.org/) * Un gestionnaire de finances personnelles, développé par KDE.
 
-#### Office Suites
+##### Office Suites
 
 * [![Open-Source Software][OSS Icon]](https://cgit.kde.org/calligra.git/) [Caligra Office](https://www.calligra.org/) * offre un ensemble complet de 8 applications qui répond aux besoins de bureautique, de graphisme et de gestion.
 * [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) [LibreOffice](https://www.libreoffice.org/) * Sans doute la suite bureautique la plus populaire pour Linux, elle est très développée et largement connue.
 * [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE) [OnlyOffice](https://www.onlyoffice.com/) * Une suite bureautique payante pour une version en nuage d'elle-même, mais gratuite pour les autres utilisations.
 * [WPS office](http://wps-community.org/) * Une suite bureautique populaire en Chine, mais entièrement traduite et fonctionnant bien en anglais.
 
-#### LaTeX
+##### LaTeX
 
 * [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) * Éditeur latex simple avec des modèles, une vérification orthographique et des assistants.
 * [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/latexila) [LaTeXila](https://wiki.gnome.org/Apps/LaTeXila) * LaTeXila est un éditeur LaTeX pour le bureau GNOME.
@@ -795,14 +804,14 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](http://www.xm1math.net/texmaker/download.html) [Texmaker](http://www.xm1math.net/texmaker/) * Éditeur LaTeX libre et multiplateforme.
 * [![Open-Source Software][OSS Icon]](https://github.com/TeXworks/texworks) [TeXworks](https://www.tug.org/texworks/) * TeXworks est un environnement pour la création de documents TeX (LaTeX, ConTeXt, etc.), avec un éditeur basé sur Unicode et compatible TeX, un visualiseur PDF intégré et une interface simple et propre accessible aux utilisateurs occasionnels et non techniques.
 
-#### Markdown
+##### Markdown
 
 * [![Open-Source Software][OSS Icon]](http://github.com/wereturtle/ghostwriter) [Ghost Writer](http://wereturtle.github.io/ghostwriter/) * Un éditeur Markdown sans distraction pour Windows et Linux.
 * [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) * Un éditeur Markdown performant qui utilise une variante de GitHub Flavored Markdown (GFM).
 * [![Open-Source Software][OSS Icon]](https://github.com/retext-project/retext) [Retext](https://github.com/retext-project/retext) * Un éditeur simple mais puissant pour Markdown et reStructuredText.
 * [Typora](https://typora.io/) * Un éditeur markdown minimal.
 
-#### Écriture de romans
+##### Écriture de romans
 
 * [![Open-Source Software][OSS Icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) * Un logiciel d'écriture de romans axé sur les idées et les personnages.
 * [![Open-Source Software][OSS Icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) * Manuskript est un outil parfait pour les écrivains qui aiment organiser et planifier tout avant d'écrire.
@@ -810,21 +819,21 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) * Scribus est une application de publication assistée par ordinateur conçue pour la mise en page, la composition et la préparation de fichiers pour les équipements de traitement d'images de qualité professionnelle. Il peut également créer des présentations et des formulaires PDF animés et interactifs.
 * [![Open-Source Software][OSS Icon]](https://github.com/oskusalerma/trelby) [Trelby](http://www.trelby.org/) * Trelby est simple, rapide et élégamment mis en page pour faciliter l'écriture de scénarios.
 
-### Productivité
+#### Productivité
 
-#### Automatisation
+##### Automatisation
 
 * [![Open-Source Software][OSS Icon]](https://github.com/Jmgr/actiona) [Actionaz](http://actionaz.org/) * Un utilitaire pour l'automatisation des tâches Ubuntu/Linux.
 * [![Logiciel libre][Icône OSS]](https://github.com/autokey/autokey) [Autokey](https://github.com/autokey/autokey) * Un utilitaire d'automatisation du bureau pour Linux vous permet de gérer une collection de scripts et de phrases, et de leur attribuer des abréviations et des raccourcis clavier.
 * [![Open-Source Software][OSS Icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) * Empêche Ubuntu de se mettre en veille automatiquement.
 
-#### Dock
+##### Dock
 
 * [![Logiciel libre][Icône OSS]](https://github.com/Cairo-Dock) [Cairo-Dock](http://glx-dock.org/) * Cairo-Dock est une interface de bureau qui prend la forme de docks, desklets, panneaux, etc.
 * [![Logiciel libre][Icône OSS]](https://launchpad.net/docky/+téléchargement) [Docky](http://wiki.go-docky.com/index.php?title=Welcome_to_the_Docky_wiki) * Docky est une application de dock à part entière qui facilite et accélère l'ouverture des applications courantes et la gestion des fenêtres.
 * [![Open-Source Software][OSS Icon]](https://code.launchpad.net/plank) [Plank](https://launchpad.net/plank) * Plank est censé être le dock d'applications le plus simple de la planète.
 
-#### Recherche locale
+##### Recherche locale
 
 * [![Open-Source Software][OSS Icon]](https://github.com/albertlauncher/albert) [Albert](https://github.com/albertlauncher/albert) * Un formidable lanceur de clavier pour le bureau Linux.
 * [![Logiciel libre][Icône OSS]](https://github.com/DoTheEvo/ANGRYsearch) [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) * Recherche de fichiers sur Linux, résultats instantanés pendant que vous tapez.
@@ -833,7 +842,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/cboxdoerfer/fsearch) [fsearch](https://github.com/cboxdoerfer/fsearch) * Un utilitaire de recherche de fichiers rapide pour les systèmes Unix-like basé sur GTK+3. Support des caractères génériques, support des RegEx, support des filtres.
 * [![Open-Source Software][OSS Icon]](https://github.com/p-e-w/plotinus) [Plotinus](https://github.com/p-e-w/plotinus) * Une palette de commandes interrogeable dans chaque application GTK+ moderne.
 
-#### Divers 03
+##### Divers 03
 
 * [![Open-Source Software][OSS Icon]](https://code.launchpad.net/anoise) [Ambient Noise](http://anoise.tuxfamily.org/) * Un générateur de bruit ambiant pour Linux.
 * [![Open-Source Software][OSS Icon]](https://github.com/jarun/bcal) [bcal](https://github.com/jarun/bcal) * Effectue des conversions et des calculs de stockage.
@@ -846,7 +855,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Logiciel libre][Icône OSS]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) * Vous avertit de la fin des commandes longues du terminal.
 * [![Open-Source Software][OSS Icon]](https://github.com/xmindltd/xmind) [Xmind](http://www.xmind.net/) * Un outil de cartographie mentale.
 
-#### Prise de notes
+##### Prise de notes
 
 * [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) [Basket Note Pads](http://basket.kde.org/) * Cette application polyvalente de prise de notes vous aide à prendre facilement toutes sortes de notes.
 * [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) * Boostnote est une application open source de prise de notes faite pour les programmeurs comme vous.
@@ -866,7 +875,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/CellarD0-0r/whatever) [Whatever](https://github.com/CellarD0-0r/whatever) * Un client de bureau Evernote non officiel pour Linux.
 * [![Open-Source Software][OSS Icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) * Un client de prise de notes multiplateforme basé sur le cloud.
 
-#### Temps et tâches
+##### Temps et tâches
 
 * [![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) [Alarm Clock](http://alarm-clock.pseudoberries.com/) * Alarm Clock est un réveil complet pour votre panneau GNOME ou équivalent.
 * [![Open-Source Software][OSS Icon]](http://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) * Un calendrier et une application de planification pour la ligne de commande.
@@ -881,19 +890,19 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/todotxt/todo.txt-android) [Todo.txt](http://todotxt.com/) * todo.txt est un ensemble d'éditeurs ciblés qui vous aident à gérer vos tâches avec le moins de frappes et de tapotements possible.
 * [![Open-Source Software][OSS Icon]](https://github.com/kamhix/todoist-linux) [Todoist](https://github.com/kamhix/todoist-linux) * Client non officiel de Todoist, le gestionnaire de tâches multiplateforme avec des applications mobiles, une grande interface utilisateur et quelques fonctionnalités premium optionnelles.
 
-#### Widget et indicateur
+##### Widget et indicateur
 
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/indicator-brightness) [Brightness](https://launchpad.net/indicator-brightness) * Indicateur de luminosité pour Ubuntu.
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/my-weather-indicator) [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) * Indicateur et widget météo pour ubuntu.
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/recent-notifications) [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) * Un indicateur pour les notifications récentes.
 
-### Proxy
+#### Proxy
 
 * [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) * Privoxy est un proxy web sans cache avec des capacités de filtrage avancées pour améliorer la confidentialité, modifier les données des pages web et les en-têtes HTTP, contrôler l'accès, et supprimer les publicités et autres déchets Internet odieux.
 * [![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) * Un outil qui force toute connexion TCP effectuée par une application donnée à passer par un proxy comme TOR ou tout autre proxy SOCKS4, SOCKS5 ou HTTP(S).
 * [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/en/index.html) * Un proxy SOCKS5 sécurisé, conçu pour protéger votre trafic Internet.
 
-### Sécurité
+#### Sécurité
 
 * [![Open-Source Software][OSS Icon]](https://github.com/vrtadmin/clamav-devel/pulls) [ClamAV](https://www.clamav.net/) * ClamAV est un moteur antivirus open source permettant de détecter les trojans, les virus, les malwares et autres menaces malveillantes.
 * [![Logiciel libre][Icône OSS]](https://github.com/fail2ban/fail2ban) [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) *Fail2ban analyse les fichiers journaux (par exemple /var/log/apache/error_log) et interdit les IP qui présentent des signes de malveillance -* trop d'échecs de mots de passe, recherche d'exploits, etc.
@@ -915,7 +924,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/usbkey9/uktools) [Uktools](https://github.com/usbkey9/uktools) * Gardez votre système à jour avec le dernier noyau disponible. Possibilité de nettoyer l'ancien noyau également.
 * [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) [Update-IPsets](https://iplists.firehol.org) * Un gestionnaire pour tous les flux IP de cybercriminalité qui peut télécharger, convertir et installer les `ipsets` de netfilter.
 
-### Partage de fichiers
+#### Partage de fichiers
 
 * [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) * aria2 est un utilitaire léger de téléchargement en ligne de commande multi-protocoles et multi-sources.
 * [CrossFTP](http://www.crossftp.com/ftp-client.htm) * CrossFTP rend extrêmement simple la gestion des tâches liées au FTP.
@@ -946,7 +955,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) * Web Torrent Desktop est un logiciel de streaming de torrents qui se connecte à la fois aux pairs BitTorrent et WebTorrent.
 * [![Open-Source Software][OSS Icon]](https://github.com/warner/magic-wormhole) [Wormhole](https://github.com/warner/magic-wormhole) * Transférer des fichiers et des répertoires de taille arbitraire (ou de courts morceaux de texte) d'un ordinateur à un autre en toute sécurité.
 
-### Terminal
+#### Terminal
 
 * [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) [Alacritty](https://github.com/jwilm/alacritty) * Un émulateur de terminal multiplateforme accéléré par GPU.
 * [![Logiciel libre][Icône OSS]](https://github.com/Swordfish90/cool-retro-term) [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) * Un terminal agréable à regarder qui imite l'ancien affichage cathodique.
@@ -973,7 +982,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](http://invisible-island.net/xterm/) * Le programme Xterm est un émulateur de terminal pour le système X Window. Il fournit des terminaux compatibles DEC VT102 et Tektronix 4014 pour les programmes qui ne peuvent pas utiliser le système de fenêtre directement.
 * [![Open-Source Software][OSS Icon]](https://www.kde.org/applications/system/yakuake/development) [Yakuake](https://yakuake.kde.org/) * Un émulateur de terminal de style Quake basé sur la technologie KDE Konsole.
 
-### Utilitaires
+#### Utilitaires
 
 * [![Open-Source Software][OSS Icon]](https://github.com/mildred/alien) [Alien Package Converter](https://sourceforge.net/projects/alien-pkg-convert/) * Convertisseur de paquets. Convertit les formats de paquets RPM, DPKG, SLP et TGZ.
 * [![Open-Source Software][OSS Icon]](https://github.com/angryip/ipscan) [Angry IP Scanner](http://angryip.org/) * Scanner de réseau rapide et convivial.
@@ -1039,7 +1048,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) * Un programme qui aide à la récupération et à la prévention des microtraumatismes répétés (RSI).
 * [![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) [Xtreme Download Manager](http://xdman.sourceforge.net/) * Un bon gestionnaire de téléchargement avec une nouvelle interface utilisateur pour Linux.
 
-### Video
+#### Video
 
 * [![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi) [Bomi Player](https://bomi-player.github.io/) * Un lecteur multimédia puissant et facile à utiliser.
 * [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese) [Cheese](https://wiki.gnome.org/Apps/Cheese) * Cheese utilise votre webcam pour prendre des photos et des vidéos, applique des effets spéciaux fantaisistes et vous permet de partager le plaisir avec d'autres.
@@ -1052,13 +1061,13 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) * SVP vous permet de regarder n'importe quelle vidéo sur votre ordinateur de bureau en utilisant l'interpolation de trame comme sur les téléviseurs et projecteurs haut de gamme.
 * [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) * VLC est un lecteur multimédia multiplateforme gratuit et open source qui lit la plupart des fichiers multimédia ainsi que les DVD, les CD audio, les VCD et divers protocoles de streaming.
 
-### Logiciels wiki
+#### Logiciels wiki
 
 * [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) * ikiwiki est un compilateur de wiki. Il convertit les pages wiki en pages HTML adaptées à la publication sur un site web. Ikiwiki stocke les pages et l'historique dans un système de contrôle de révision tel que Subversion ou Git.
 * [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop](https://tiddlywiki.com/#TiddlyDesktop) * Une application de bureau pour TiddlyWiki, un wiki personnel open-source écrit en javascript, idéal si vous êtes toujours à la recherche d'une bonne application de prise de notes (et plus).
 * [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) * Un éditeur de texte graphique utilisé pour maintenir une collection de pages wiki, idéal pour les notes et les documents. Stocké dans des fichiers de texte brut pour un contrôle de version facile.
 
-### Autres
+#### Autres
 
 * [![Open-Source Software][OSS Icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) * Calibration et caractérisation de l'affichage à code source ouvert par ArgyllCMS.
 * [![Logiciel libre][Icône OSS]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.github.io) * Editeur de police libre pour Windows, Mac OS X et GNU+Linux.
@@ -1067,7 +1076,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) [Mycroft](https://github.com/MycroftAI/mycroft-core) * Mycroft est un assistant vocal open source piratable.
 * [![Logiciel libre][Icône OSS]](https://github.com/lah7/polychromatic) [Polychromatic](https://github.com/lah7/polychromatic) * Frontal graphique et applet de plateau pour configurer les périphériques Razer sous GNU/Linux.
 
-## Utilitaires en ligne de commande
+### Utilitaires en ligne de commande
 
 * [![Open-Source Software][OSS Icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) * Un gestionnaire de signets en ligne de commande.
 * [![Logiciel libre][Icône OSS]](https://github.com/AlDanial/cloc) [Cloc](https://github.com/AlDanial/cloc) * Compter les lignes de code : cloc compte les lignes vides, les lignes de commentaires et les lignes physiques du code source dans de nombreux langages de programmation.
@@ -1102,7 +1111,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) * Gestionnaire de connexion WiFi en ligne de commande.
 * [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl) [youtube-dl](http://rg3.github.io/youtube-dl/) * youtube-dl est un programme en ligne de commande pour télécharger des vidéos depuis YouTube.com et quelques autres sites. Il nécessite l'interpréteur Python (2.6, 2.7 ou 3.2+) et n'est pas spécifique à une plate-forme.
 
-## Environnements de bureau
+### Environnements de bureau
 
 * [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) [Budgie](http://www.omgubuntu.co.uk/2016/09/install-budgie-desktop-on-ubuntu) * Budgie est un environnement de bureau conçu pour l'utilisateur moderne, il se concentre sur la simplicité et l'élégance.
 * [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](http://cinnamon.linuxmint.com/) * Cinnamon s'efforce de fournir une expérience utilisateur traditionnelle. Cinnamon est un fork de GNOME 3.
@@ -1119,15 +1128,15 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/ubports/unity8) [Unity](https://unity8.io/) * Unity est un shell pour GNOME conçu par Canonical pour Ubuntu. Un [guide](http://www.omgubuntu.co.uk/2016/04/ubuntu-16-04-unity-8-desktop-progress-video) sur la façon d'installer unity 8 sur Ubuntu 16.04.
 * [![Logiciel libre][Icône OSS]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) * Xfce incarne la philosophie traditionnelle UNIX de modularité et de réutilisation.
 
-## Gestionnaire d'affichage
+### Gestionnaire d'affichage
 
-### Console
+#### Console
 
 * [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) [CDM](https://github.com/ghost1227/cdm) * Un gestionnaire de connexion ultra-minimaliste, mais complet, écrit en Bash.
 * [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) * Une extension pour xinit écrite en Bash pur.
 * [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) * Un gestionnaire d'affichage minimaliste pour les connexions automatiques.
 
-### Graphique
+#### Graphique
 
 * [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) [Entrance](http://enlightenment.org) * Un gestionnaire d'affichage basé sur EFL, très expérimental.
 * [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) [GDM](https://wiki.gnome.org/Projects/GDM) * Le gestionnaire d'affichage de GNOME.
@@ -1138,29 +1147,29 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) [SLiM](http://sourceforge.net/projects/slim.berlios/) * Solution de connexion graphique légère et élégante. (discontinué)
 * [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) * Le gestionnaire d'affichage X avec prise en charge de XDMCP, et sélecteur d'hôte.
 
-## Gestionnaires de fenêtres
+### Gestionnaires de fenêtres
 
-### Compositeurs
+#### Compositeurs
 
 * [![Open-Source Software][OSS Icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) * Compton est un gestionnaire de composition autonome, adapté à une utilisation avec des gestionnaires de fenêtres qui ne fournissent pas nativement de fonctionnalité de composition.
 * [![Open-Source Software][OSS Icon]](https://github.com/swaywm/sway) [Sway](http://swaywm.org) * Sway est un compositeur Wayland et un remplacement direct du gestionnaire de fenêtres i3 pour X11.
 * [![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) * Xcompmgr est un gestionnaire composite simple capable de rendre les ombres portées et, avec l'utilisation de l'utilitaire transset, la transparence primitive des fenêtres.
 
-### Gestionnaires de fenêtres empilées
+#### Gestionnaires de fenêtres empilées
 
 * [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) [2bwm](https://github.com/venam/2bwm) * Un WM flottant rapide, avec la particularité d'avoir 2 bordures, écrit sur la bibliothèque XCB et dérivé de mcwm.
 * [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) [Blackbox](http://blackboxwm.sourceforge.net) * Un gestionnaire de fenêtre rapide et léger pour le système X Window, sans toutes ces dépendances de bibliothèque ennuyeuses.
 * [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) [Fluxbox](http://fluxbox.org) * Un gestionnaire de fenêtres pour X basé sur le code Blackbox 0.61.1.
 * [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) [Openbox](http://openbox.org) * Un gestionnaire de fenêtres de nouvelle génération, hautement configurable, avec un support étendu des standards.
 
-### Gestionnaires de fenêtres en mosaïque
+#### Gestionnaires de fenêtres en mosaïque
 
 * [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) [Bspwm](https://github.com/baskerville/bspwm/wiki) * bspwm est un gestionnaire de fenêtres en mosaïque qui représente les fenêtres comme les feuilles d'un arbre binaire complet.
 * [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) [Herbstluftwm](https://herbstluftwm.org) * est un gestionnaire de fenêtre manuelle pour X11 utilisant Xlib et Glib.
 * [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) [i3 WM](https://i3wm.org/) * Un meilleur gestionnaire de fenêtres dynamiques et à tuiles. Il est entièrement écrit à partir de zéro. Les plates-formes cibles sont les systèmes d'exploitation GNU/Linux et BSD.
 * [![Open-Source Software][OSS Icon]](https://github.com/qtile/qtile) [Qtile](http://www.qtile.org/) * qtile est un gestionnaire de fenêtres à mosaïque complet et modifiable écrit et configuré en Python.
 
-### Gestionnaires de fenêtres dynamiques
+#### Gestionnaires de fenêtres dynamiques
 
 * [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) [awesome](https://awesomewm.org) * Un gestionnaire de fenêtres hautement configurable et de nouvelle génération pour X.
 * [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) [dwm](http://dwm.suckless.org) * Un gestionnaire de fenêtres dynamique pour X. Il gère les fenêtres dans des dispositions en mosaïque, monocle et flottantes.
@@ -1168,7 +1177,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm/wiki) * Un petit gestionnaire de fenêtres dynamiques pour X11, largement inspiré de xmonad et dwm.
 * [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](http://xmonad.org) * Un gestionnaire de fenêtres X11 à tuilage dynamique qui est écrit et configuré en Haskell.
 
-## Démarrage
+### Démarrage Linux
 
 * [C'est quoi Linux](https://www.linux.com/what-is-linux)
 * [Notions de base pour Linux](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
@@ -1177,20 +1186,20 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Que font ces commandes dans la ligne de commande?](https://www.explainshell.com)
 * [Explications des lignes de commande](https://github.com/idank/explainshell)
 
-### Arch Linux
+#### Arch Linux
 
 * [Obtenir et installer Arch](https://wiki.archlinux.org/index.php/Category:Getting_and_installing_Arch)
 * [Guide d'installation](https://wiki.archlinux.org/index.php/Installation_guide)
 * [Recommandations générales](https://wiki.archlinux.org/index.php/General_recommendations)
 * [Liste d'applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
-### Bodhi
+#### Bodhi
 
 * [C'est quoi Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
 * [Ou télécharger Bodhi](http://www.bodhilinux.com/download/)
 * [Comment installer Bodhi](http://www.bodhilinux.com/w/installation-instructions/)
 
-### CentOS
+#### CentOS
 
 * [Site Officiel](https://www.centos.org)
 * [A propos](https://wiki.centos.org/About)
@@ -1199,14 +1208,14 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Trucs et astuces](https://wiki.centos.org/TipsAndTricks)
 * [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
 
-### Fedora
+#### Fedora
 
 * [C'est quoi Fedora?](https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html)
 * [Ou télécharger Fedora](https://getfedora.org)
 * [Comment j'installe Fedora?](https://docs.fedoraproject.org/f26/install-guide/install/Preparing_for_Installation.html)
 * [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
 
-### openSUSE
+#### openSUSE
 
 * [C'est quoi openSUSE](https://www.techopedia.com/definition/28543/opensuse)
 * [Raisons d'essayer openSUSE](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
@@ -1214,46 +1223,46 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Comment installer openSUSE](https://en.opensuse.org/Portal:Installation)
 * [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
 
-### Ubuntu
+#### Ubuntu
 
 * [C'est quoi Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 * [Comment installer Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
 * [Comment créer un Dual-Boot Ubuntu * Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 * [Quoi faire aprés l'intallation d'Ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
-### Autres distributions
+#### Autres distributions
 
 > A remplir plus tard
 
-## Forums de discussion Forums
+### Forums de discussion Forums
 
-### Forums Arch Linux Forums
+#### Forums Arch Linux Forums
 
 * [Forums Arch Linux](https://bbs.archlinux.org/)
 * [Forums Arch Linux ARM](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
-### Forums Bodhi Linux
+#### Forums Bodhi Linux
 
 * [Forums Bodhi Linux](http://forums.bodhilinux.com/)
 
-### Forums CentOS
+#### Forums CentOS
 
 * [Forums CentOS](https://www.centos.org/forums/)
 
-### Forums Fedora
+#### Forums Fedora
 
 * [Forums Fedora](https://forums.fedoraforum.org/index.php)
 
-### Forums Ubuntu
+#### Forums Ubuntu
 
 * [Forum Ubuntu](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 
-### Forums openSUSE
+#### Forums openSUSE
 
 * [Forums openSUSE](https://forums.opensuse.org/forum.php)
 
-### Canaux IRC
+#### Canaux IRC
 
 * [#linux](http://webchat.freenode.net/?channels=#linux)
 * [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
@@ -1263,7 +1272,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [#docker](http://webchat.freenode.net/?channels=docker)
 * [#bash](http://webchat.freenode.net/?channels=bash)
 
-### Linux Infos, Apps, et plus
+#### Linux Infos, Apps, et plus
 
 * [OMG!Ubuntu](http://www.omgubuntu.co.uk/)
 * [ITSFOSS](https://itsfoss.com/)
@@ -1282,7 +1291,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [FAMILUG](http://www.familug.org/)
 * [Ubuntu Geek](http://www.ubuntugeek.com/)
 
-### Reddit
+#### Reddit
 
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [CentOS](https://www.reddit.com/r/CentOS/)
@@ -1294,7 +1303,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
 
-## Apprendre Linux
+### Apprendre Linux
 
 * [Guide du débutant pour Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
 * [Apprendre les commandes Linux](http://linuxcommand.org/)
@@ -1304,7 +1313,7 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Guide de poche pour Linux](http://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
 * [Ressources communautaires  pour l'apprentissage de  Linux](https://hackr.io/tutorials/learn-linux-system-administration)
 
-## Linux Hacking/Dévelopement
+### Linux Hacking/Dévelopement
 
 * [Le Noyau pour les nouveaux](https://kernelnewbies.org/)
 * [Dans le coueur de Linux](https://0xax.gitbooks.io/linux-insides/content/index.html)
@@ -1314,26 +1323,26 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Archive de la liste de diffusion du Noyau Linux](https://lkml.org/)
 * [Guide de programmation de module pour le Noyau Linux(PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## Linux Avancé
+### Linux Avancé
 
 * [Virtualisation de Containeurs](https://github.com/Citrix-TechSpecialist/Docker-101)
 * [Virtualisation avec Virtualbox](https://www.virtualbox.org/manual/ch01.html)
 
-## Autres listes sympa
+### Autres listes sympa
 
 *Voici des listes recommandés:*
 
 * [Audio Linux](https://github.com/nodiscc/awesome-linuxaudio)
 * [Auto-Hébergement](https://github.com/kickball/awesome-selfhosted)
 * [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+      </details>
+      </p>
 
 **[⬆ Retour en haut](#auteur)** <br>
 
-##
-
 ***
 
-### Utilisé dans ce projet
+## 📦  &nbsp; Utilisé dans ce projet
 
 |      Languages      |  et Applications   |
 | :-----------------: | :----------------: |
@@ -1342,15 +1351,15 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 
 ***
 
-### Guide pour contribuer
+## 🚦 &nbsp; Guide pour contribuer
 
 ***N'hésitez pas à contribuer, en ouvrant une issue.***
 
 * Mettez simplement le nom de l'**application** dans la liste.
 * Mettre un lien avec sa **homepage** ou un **guide** sur son installation.
-* Aussi ecrivez une **petite description** de l'application + ajouter une **icône**.
+* Ecrivez une **petite description** de l'application + ajouter une **icône**.
 * Faite bien attention de l'avoir placé dans **le topic approprié**.
-* Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau** pour lui.
+* Si l'application ne correspond à aucun **topic existant**, créez en **un nouveau**.
 * Faite en sorte que tout est bien **classé par ordre alphabétique**.
 
 #### Apprendre à contribuer ?
@@ -1360,11 +1369,11 @@ _Les éléments marqués avec ![Nonfree][Money Icon] sont payant (comme avec une
 * [Qu'est-ce que Markdown?](https://github.com/LewisVo/Markdown-Tutorial) * Markdown est le style d'écriture pour la création de cette liste, si vous voulez savoir comment bien le formater, il est préférable d'apprendre comment utiliser Github Markdown.
 * [Guide Alternatif pour Markdown:](https://guides.github.com/features/mastering-markdown/)
 
-### Merci à tous
+#### Merci à tous
 
 ***
 
-### 📝  License
+## 📝 &nbsp; License
 
 Copyright © 2021 [Thierry Laval](https://thierrylaval.dev).
 
@@ -1381,7 +1390,7 @@ Ce projet est sous licence [MIT](LICENCE).
 
 ***
 
-### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+## &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
 
 Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
